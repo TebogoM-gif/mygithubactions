@@ -1,0 +1,8 @@
+{
+  "name": "mygithubactions",
+  "version": "1.0.0",
+  "description": "Basic CI demo with GitHub Actions",
+  "scripts": {
+    "build": "echo \"Build successful\""
+  }
+}
