@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Basic CI demo with GitHub Actions",
   "scripts": {
-    "build": "echo \"Build successful\""
+    "build": "echo \"exit 1\""
   }
 }
