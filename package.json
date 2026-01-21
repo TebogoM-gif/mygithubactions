@@ -1,18 +1,11 @@
 {
   "name": "mygithubactions",
   "version": "1.0.0",
-  "description": "A demo Node.js project for GitHub Actions CI",
+  "description": "Basic CI demo for GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build successful\"",
-    "lint": "eslint .",
-    "test": "jest"
+    "build": "echo \"Build successful\""
   },
-  "keywords": [],
-  "author": "Tebogo M",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.44.0",
-    "jest": "^29.7.0"
-  }
+  "author": "Tebogo",
+  "license": "ISC"
 }
