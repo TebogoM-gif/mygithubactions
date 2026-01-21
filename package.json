@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Basic CI demo with GitHub Actions",
   "scripts": {
-    "build": "echo \"Build successful\"",
-    "lint": "eslint .",
-    "test": "jest"
-  }
+  "build": "echo \"Build successful\"",
+  "lint": "eslint .",
+  "test": "jest"
+ }
+
 }
